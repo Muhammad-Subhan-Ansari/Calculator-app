@@ -23,4 +23,6 @@
 
     <string name="backSpace"> </string>
 
+    <string name="display">Enter value</string>
+
 </resources>
