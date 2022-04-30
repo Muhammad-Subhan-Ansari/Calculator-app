@@ -21,7 +21,7 @@
     <string name="equal">=</string>
     <string name="point">.</string>
 
-    <string name="backSpace"> </string>
+    <string name="backSpace">del</string>
 
     <string name="display">Enter value</string>
 
